@@ -8,3 +8,7 @@ playlist['JP Cooper'] = 'September'
 function updatePlaylist(playlist, artistName, songTitle)  {
   playlist[artistName] = songTitle
 }
+
+function remo(playlist, artistName, songTitle)  {
+  playlist[artistName] = songTitle
+}
